@@ -7,7 +7,7 @@
 
 ### 📝 Description
 
-**QinChe AI** is a custom-built Telegram chatbot that transcends typical user-initiated AI conversations. Unlike standard chatbots, QinChe AI offers *persistent memory*, *scheduled emotional engagement*, and *context-aware interactions* through a personalized, fine-tuned GPT-4o-mini model.
+**QinChe AI** is a custom-built Telegram chatbot that transcends typical user-initiated AI conversations. Unlike standard chatbots, QinChe AI offers *persistent memory*, *scheduled emotional engagement*, and *context-aware interactions* through a personalized, fine-tuned GPT-4o-mini model ('ft:gpt-4o-mini-2024-07-18:personal::BPVGSxsm').
 
 The system stores and continuously learns from each user's chat history, enabling it to deliver messages that feel emotionally intelligent, timely, and personally relevant. It uses a hybrid scheduling model (fixed + randomized) to send natural, spontaneous check-ins or thoughtful messages throughout the day.
 
